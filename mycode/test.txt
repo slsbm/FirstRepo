@@ -1,0 +1,36 @@
+1.
+0 0 0 0 0 *
+0 0 0 0 * *
+0 0 0 * * *
+0 0 * * * *
+0 * * * * *
+* * * * * *
+
+2.
+akriti
+
+a-1
+k-1
+r-1
+i-2
+t-1
+
+
+3.
+[1,9,0,2,3,4,1,3...]
+
+sort
+
+
+GIT:
+
+pyramid
+charCount
+sort
+
+------------------
+git clone https://github.com/slsbm/FirstRepo.git
+git add .
+git commit -m "done code for project"
+git push
+
